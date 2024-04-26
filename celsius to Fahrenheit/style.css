@@ -1,0 +1,44 @@
+body{
+    background-color:purple;
+}
+
+#frah{
+    border: 2px solid black;
+    height: 350px;
+    width: 550px;
+    margin-top: 200px;
+    margin-left: 400px;
+    text-align: center;
+    background-color:lightblue;
+}
+
+h2{
+    font-size: 35px;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+
+#input{
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+input::placeholder{
+    color: darkgrey;
+    font-weight: bolder;
+}
+
+#btn{
+    color:black;
+font-weight: bolder;
+margin-top: 20px;
+border: 2px solid black;
+}
+
+#result{
+    margin-top: 40px;
+    font-size: 30px;
+    font-weight: bolder;
+}
