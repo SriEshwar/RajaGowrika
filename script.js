@@ -57,4 +57,49 @@ newsets.has(29);
 newsets.has(100);
 newsets.clear()*/
 
+/*Let bookingticket = new promise((resolve,reject)=>{
+ Let Bookingsuccess=true
+if(Bookingsuccess){
+ resolve()
+}
+else{
+reject()
+}
+})
 
+bookingticket.then(()=>console.log("Thanks for booking ticket")).catch(()=>console.log("sorry!! Try again))
+
+
+
+ Let bookingticket = new promise((resolve,reject)=>{
+ Let Bookingsuccess=true
+if(Bookingsuccess){
+ resolve(1000)
+}
+else{
+reject()
+}
+})
+
+bookingticket.then((amt)=>console.log("Thanks for booking ticket ",amt)).catch(()=>console.log("sorry!! Try again))*/
+
+/*function greetconsole(name){
+Console.log('hello',name)}
+function greetheading(name){
+console.log("hello All")
+}
+function greet(callback){
+Callback('Raja');
+}
+greet(greetheading)
+
+
+
+ arr =['c','java','python','css']
+arr.forEach(print)
+
+function print(val)
+{
+Console.log(val)
+}
+*/
