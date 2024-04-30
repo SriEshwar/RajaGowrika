@@ -1,6 +1,6 @@
 function validatePassword() {
     var p = document.getElementById('password').value
-    console.log("xfcgvhbjn")
+    
         errors = [];
     if (p.length < 8) {
         errors.push("Your password must be at least 8 characters"); 
